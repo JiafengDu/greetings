@@ -76,6 +76,7 @@ Deploying
 Add the app to the Open Edx platform that is running in tutor development mode (tutor dev)
 ------------------------------------------------------------------------------------------
 .. code-block::
+
   # Create (or open existing) docker-compose.override.yml file
   nano "$(tutor config printroot)/env/dev/docker-compose.override.yml"
 
@@ -103,6 +104,7 @@ Add the app to the Open Edx platform that is running in tutor development mode (
 Add the app to the production mode (tutor local)
 ------------------------------------------------
 .. code-block::
+  
   # Install the project as a pip package by:
   # add it to the "$(tutor config printroot)"/config.yml
   OPENEDX_EXTRA_PIP_REQUIREMENTS:

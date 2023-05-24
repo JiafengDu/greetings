@@ -103,11 +103,11 @@ CHANGELOG = open(os.path.join(os.path.dirname(__file__), 'CHANGELOG.rst'), encod
 setup(
     name='greetings',
     version=VERSION,
-    description="""One-line description for README and other doc files.""",
+    description="""open edx extension to capture user input greetings""",
     long_description=README + '\n\n' + CHANGELOG,
-    author='edX',
-    author_email='oscm@edx.org',
-    url='https://github.com/openedx/greetings',
+    author='jiafeng',
+    author_email='dujiafengdave@gmail.com',
+    url='https://github.com/jiafengdu/greetings',
     packages=find_packages(
         include=['greetings', 'greetings.*'],
         exclude=["*tests"],

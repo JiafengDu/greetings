@@ -101,15 +101,6 @@ Add the app to the Open Edx platform that is running in tutor development mode (
   # Restart the container
   docker restart tutor_dev-lms-1
 
-Add the app to the production mode (tutor local)
-------------------------------------------------
-.. code-block::
-  
-  # Install the project as a pip package by:
-  # add it to the "$(tutor config printroot)"/config.yml
-  OPENEDX_EXTRA_PIP_REQUIREMENTS:
-  - git+https://github.com/jiafengdu/greetings.git
-
 More Help
 =========
 

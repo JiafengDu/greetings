@@ -106,46 +106,6 @@ More Help
 
 For questions specific to this plugin, please contact Jiafeng
 
-License
-*******
-
-The code in this repository is licensed under the AGPL 3.0 unless
-otherwise noted.
-
-Please see `LICENSE.txt <LICENSE.txt>`_ for details.
-
-Contributing
-************
-
-Contributions are very welcome.
-Please read `How To Contribute <https://openedx.org/r/how-to-contribute>`_ for details.
-
-This project is currently accepting all types of contributions, bug fixes,
-security fixes, maintenance work, or new features.  However, please make sure
-to have a discussion about your new feature idea with the maintainers prior to
-beginning development to maximize the chances of your change being accepted.
-You can start a conversation by creating a new issue on this repo summarizing
-your idea.
-
-The Open edX Code of Conduct
-****************************
-
-All community members are expected to follow the `Open edX Code of Conduct`_.
-
-.. _Open edX Code of Conduct: https://openedx.org/code-of-conduct/
-
-People
-******
-
-The assigned maintainers for this component and other project details may be
-found in `Backstage`_. Backstage pulls this data from the ``catalog-info.yaml``
-file in this repo.
-
-.. _Backstage: https://open-edx-backstage.herokuapp.com/catalog/default/component/greetings
-
-Reporting Security Issues
-*************************
-
 Please do not report security issues in public. Please email dujiafengdave@gmail.com
 
 
